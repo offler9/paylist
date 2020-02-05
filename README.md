@@ -5,9 +5,10 @@ Pay your bill easily!
 ## Setup 
 
 1. Install golang and setup `$GOPATH`. Download in [here](#https://golang.org/dl/) and Installation instruction can be found in [here](#https://golang.org/doc/install)
-2. `go get -u github.com/ariebrainware/paylist-api`
-3. Setup `connString`  variable inside `main.go`
-4. `go run main.go`
+2. git clone `remote repository`
+3. `go get -u github.com/ariebrainware/paylist-api`
+4. Setup `connString`  variable inside `main.go`
+5. `go run main.go`
 
 ## API Design
 
